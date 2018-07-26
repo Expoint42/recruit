@@ -14,7 +14,7 @@
 
 ### 搭建后端测试服务器
 
-1. 从 下载 [redis 3.0.504](https://github.com/MicrosoftArchive/redis/releases/download/win-3.0.504/Redis-x64-3.0.504.zip)，解压后从命令行运行 `redis-server.exe` 命令来启动 redis 服务器；
+1. 下载 [redis 3.0.504](https://github.com/MicrosoftArchive/redis/releases/download/win-3.0.504/Redis-x64-3.0.504.zip)，解压后从命令行运行 `redis-server.exe` 命令来启动 redis 服务器；
 3. 使用命令行进入 services 目录，使用 `npm install`，安装项目依赖包；
 4. 使用 `npm start` 启动服务器，看到 `Server listening on port:  5000` 表示启动成功。
 
