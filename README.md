@@ -34,8 +34,8 @@
     2. 【Welcome to Modern business】 和 【 Portfolio Heading 】 博客按时间显示
 - 【博客列表】参考： https://blackrockdigital.github.io/startbootstrap-modern-business/blog-home-1.html
 - 【博客详情】参考： https://blackrockdigital.github.io/startbootstrap-modern-business/blog-post.html
-- 【登录】 参考： https://blackrockdigital.github.io/startbootstrap-sb-admin-2/pages/login.html， 但需要加上导航栏
-- 【注册】 可自行安排，或参考 https://bootsnipp.com/snippets/featured/simple-registration-form
+- 【登录】 参考： https://blackrockdigital.github.io/startbootstrap-sb-admin-2/pages/login.html 需要加上导航栏
+- 【注册】 可自行安排，或参考 https://bootsnipp.com/snippets/featured/simple-registration-form  需要加上导航栏
 
 ##### API接口：
 
